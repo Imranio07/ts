@@ -1,0 +1,10 @@
+.pakemon {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: aqua;
+  height: 70px;
+  width: 150px;
+  border-radius: 10px;
+  text-align: end;
+}
